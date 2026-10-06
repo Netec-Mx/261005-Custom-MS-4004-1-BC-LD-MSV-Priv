@@ -1,4 +1,4 @@
-# Lab 01-00-12: Práctica 12. Los participantes utilizarán el resultado final del caso para redactar una comunicación ejecutiva y posteriormente emplearán Copilot dentro de Word en modo Edición para generar dos versiones: una dirigida a otros líderes que necesiten comprender los criterios y riesgos de la decisión y otra orientada al equipo responsable de ejecutarla. Se verificará que ambas mantengan la misma decisión, pero modifiquen profundidad, lenguaje, énfasis y acciones esperadas.
+# Práctica 12. Los participantes utilizarán el resultado final del caso para redactar una comunicación ejecutiva y posteriormente emplearán Copilot dentro de Word en modo Edición para generar dos versiones: una dirigida a otros líderes que necesiten comprender los criterios y riesgos de la decisión y otra orientada al equipo responsable de ejecutarla. Se verificará que ambas mantengan la misma decisión, pero modifiquen profundidad, lenguaje, énfasis y acciones esperadas.
 
 ## Metadatos
 
