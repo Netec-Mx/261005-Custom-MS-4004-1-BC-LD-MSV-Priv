@@ -1,4 +1,4 @@
-# Lab 01-00-05: Práctica 5. Los participantes ejecutarán una misma solicitud de análisis utilizando modelos de OpenAI y Claude. En lugar de buscar cuál modelo es “mejor”, compararán cuál resultado es más útil para el propósito ejecutivo planteado y qué elementos conservarían o refinarían.
+# Práctica 5. Los participantes ejecutarán una misma solicitud de análisis utilizando modelos de OpenAI y Claude. En lugar de buscar cuál modelo es “mejor”, compararán cuál resultado es más útil para el propósito ejecutivo planteado y qué elementos conservarían o refinarían.
 
 ## Metadatos
 
