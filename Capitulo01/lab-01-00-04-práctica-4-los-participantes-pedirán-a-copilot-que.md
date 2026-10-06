@@ -1,4 +1,4 @@
-# Los participantes pedirán a Copilot que adopte una postura crítica frente a la alternativa inicialmente preferida e identifique razones por las que podría fracasar, señales tempranas que indicarían que la decisión debe reconsiderarse y preguntas que un comité debería formular antes de aprobarla. 
+# Práctica 4: Los participantes pedirán a Copilot que adopte una postura crítica frente a la alternativa inicialmente preferida e identifique razones por las que podría fracasar, señales tempranas que indicarían que la decisión debe reconsiderarse y preguntas que un comité debería formular antes de aprobarla.  
 
 ## Metadatos
 
