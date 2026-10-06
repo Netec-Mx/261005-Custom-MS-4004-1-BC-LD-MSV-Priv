@@ -1,4 +1,4 @@
-# Lab 01-00-11: Práctica 11. Creación y Configuración del Executive Briefing Agent en Microsoft 365 Copilot para la Toma de Decisiones Estratégicas
+# Práctica 11: Los participantes seleccionarán la plantilla Executive Briefing Agent y utilizarán la opción Crear para disponer del agente. A partir de la decisión desarrollada durante el caso, solicitarán preparar al líder para una reunión en la que deberá presentar su recomendación ante otros tomadores de decisión. El agente deberá ayudar a estructurar los mensajes principales, anticipar preguntas u objeciones, identificar aspectos sensibles que conviene preparar y proponer respuestas sustentadas en el contexto disponible. Finalmente, los participantes evaluarán qué información deben proporcionar al agente en cada nueva reunión y qué instrucciones resulta conveniente mantener como comportamiento reutilizable. 
 
 ## Metadatos
 
