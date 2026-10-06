@@ -1,4 +1,4 @@
-# Lab 01-00-10: Práctica 10. Análisis Predictivo de Escenarios, Fórmulas y Visualización en Excel con Copilot
+# Práctica 10: Sobre el plan generado, los participantes utilizarán el modo Permitir la edición para solicitar a Copilot que construya escenarios de evolución a partir de los datos y supuestos disponibles, incorpore los cálculos necesarios y genere visualizaciones que permitan comparar el comportamiento esperado de los principales indicadores. Finalmente, identificarán qué escenario representa mayores oportunidades o riesgos y qué indicadores deberían monitorearse para determinar si la decisión requiere ajustes. 
 
 ## Metadatos
 | Dimensión | Detalle |
