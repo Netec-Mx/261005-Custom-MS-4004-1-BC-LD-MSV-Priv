@@ -1,4 +1,4 @@
-# Lab 01-00-08: Práctica 8. Los participantes llevarán los hallazgos relevantes de la investigación al análisis original y solicitarán determinar qué elementos fortalecen, debilitan o no modifican cada alternativa. Finalmente identificarán qué supuesto tendría mayor capacidad de cambiar la decisión si resultara incorrecto.
+# Práctica 8. Los participantes llevarán los hallazgos relevantes de la investigación al análisis original y solicitarán determinar qué elementos fortalecen, debilitan o no modifican cada alternativa. Finalmente identificarán qué supuesto tendría mayor capacidad de cambiar la decisión si resultara incorrecto.
 
 ## Metadatos
 
