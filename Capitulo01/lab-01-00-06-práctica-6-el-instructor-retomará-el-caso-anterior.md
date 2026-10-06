@@ -1,4 +1,5 @@
-# Lab 01-00-06: Práctica 6. Clasificación Estratégica de Tareas de Decisión: Copilot General vs. Agente Especializado (Investigador)
+# Práctica 6: El instructor retomará el caso anterior y añadirá nuevas necesidades: investigar factores externos, contrastar los supuestos utilizados para tomar una decisión y preparar al líder para presentar y defender su recomendación. Los participantes determinarán cuáles necesidades continuarían resolviendo mediante Copilot y cuáles conviene trasladar a un agente. 
+
 
 ## Metadatos
 
