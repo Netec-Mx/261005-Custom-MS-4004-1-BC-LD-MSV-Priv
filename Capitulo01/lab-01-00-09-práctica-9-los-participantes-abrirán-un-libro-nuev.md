@@ -1,4 +1,4 @@
-# Lab 01-00-09: Práctica 9. Creación de un Plan de Acción Estratégico en Excel con Copilot
+# Práctica 9: Los participantes abrirán un libro nuevo de Excel y utilizarán el informe textual obtenido con Investigador como contexto para solicitar a Copilot, mediante el modo Plan, la creación de un plan de acción para responder a la situación analizada. Copilot deberá transformar los hallazgos de la investigación en una estructura que organice iniciativas, prioridades, responsables, horizonte de ejecución, indicadores de seguimiento, riesgos y criterios para revisar la decisión. Los participantes revisarán el plan generado y los pasos realizados por Copilot. 
 
 ## Metadatos
 
