@@ -1,4 +1,4 @@
-# Práctica 2: El instructor proporcionará directamente en el escenario la información necesaria sobre comportamiento del segmento, experiencia del cliente, restricciones operativas y objetivos esperados. Los participantes construirán un prompt utilizando Contexto + Objetivo + Origen + Expectativas para solicitar a Copilot que organice la situación sin generar todavía una recomendación. El resultado deberá separar qué se sabe, qué se está suponiendo y qué sería necesario validar. (
+# Práctica 2: El instructor proporcionará directamente en el escenario la información necesaria sobre comportamiento del segmento, experiencia del cliente, restricciones operativas y objetivos esperados. Los participantes construirán un prompt utilizando Contexto + Objetivo + Origen + Expectativas para solicitar a Copilot que organice la situación sin generar todavía una recomendación. El resultado deberá separar qué se sabe, qué se está suponiendo y qué sería necesario validar. 
 
 ## Metadatos
 
