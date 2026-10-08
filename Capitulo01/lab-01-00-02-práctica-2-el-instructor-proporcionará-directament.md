@@ -1,101 +1,13 @@
-# Práctica 2: El instructor proporcionará directamente en el escenario la información necesaria sobre comportamiento del segmento, experiencia del cliente, restricciones operativas y objetivos esperados. Los participantes construirán un prompt utilizando Contexto + Objetivo + Origen + Expectativas para solicitar a Copilot que organice la situación sin generar todavía una recomendación. El resultado deberá separar qué se sabe, qué se está suponiendo y qué sería necesario validar. 
+# Práctica 2 
 
-## Metadatos
-
-| Campo | Detalle |
-|:---|:---|
-| **Duración** | 6 minutos |
-| **Complejidad** | Media |
-| **Nivel Bloom** | Aplicar (Apply) |
-| **Módulo** | 1.0 — Prompting Avanzado para Líderes Ejecutivos |
-| **Práctica** | 2 de 10 (secuencial y acumulativa) |
-| **Modalidad** | Individual con discusión grupal al cierre |
 
 ## Descripción General
 
-En esta práctica, cada participante escuchará un escenario ejecutivo presentado verbalmente por el instructor —centrado en la migración del segmento de microempresarios de sucursales físicas a canales digitales de Bancolombia— y construirá un prompt estructurado bajo el marco **COOE (Contexto + Objetivo + Origen + Expectativas)** en Microsoft 365 Copilot Chat. El propósito del prompt es que Copilot **organice** la situación de negocio sin emitir recomendaciones, separando explícitamente lo que se sabe con certeza, lo que se está suponiendo y lo que requiere validación antes de tomar decisiones. Esta actividad desarrolla la competencia de formulación precisa de instrucciones para obtener respuestas analíticas de alta utilidad ejecutiva.
-
-## Objetivos de Aprendizaje
-
-Al completar esta práctica, serás capaz de:
-
-- [ ] Construir un prompt ejecutivo completo y bien estructurado aplicando el marco **Contexto + Objetivo + Origen + Expectativas (COOE)** en Microsoft 365 Copilot Chat.
-- [ ] Solicitar a Microsoft 365 Copilot que organice una situación de negocio compleja sin generar recomendaciones de acción, obteniendo una clasificación tripartita de la información (hechos, supuestos, pendientes).
-- [ ] Interpretar y evaluar críticamente el resultado generado por Copilot verificando que la respuesta separe correctamente hechos confirmados, supuestos implícitos y elementos pendientes de validación.
-- [ ] Identificar al menos una oportunidad concreta de refinamiento iterativo en el prompt construido para mejorar la precisión de la respuesta en un contexto ejecutivo real.
-
-## Prerrequisitos
-
-### Conocimientos Previos
-
-| Requisito | Descripción |
-|:---|:---|
-| Marco COOE | Haber completado la Práctica 1 del Módulo 1.0 o conocer la estructura de prompting Contexto + Objetivo + Origen + Expectativas. |
-| Interacción básica con Copilot | Haber realizado al menos una consulta previa en Microsoft 365 Copilot Chat (según prerrequisitos generales del curso). |
-| Comprensión del escenario base | Familiaridad con el escenario del curso: *Migración del segmento de microempresarios de sucursales físicas a canales digitales de Bancolombia, enfrentando fricción por brecha digital y costos de adopción.* |
-
-### Acceso y Configuración
-
-| Requisito | Detalle |
-|:---|:---|
-| Cuenta corporativa | Sesión activa con cuenta `@bancolombia.com.co` en el tenant de Bancolombia. |
-| Licencia | Microsoft 365 Copilot Premium activa y asignada (Service Release 2408, Build 17928.20156). |
-| Sesión de Copilot Chat | Chat abierto en `https://m365.cloud.microsoft/chat` (modo **Work**) o en Microsoft Teams (Trabajo o Escuela) versión 24193.1805.2987.5853. |
-| Bloc de notas | Papel físico o aplicación de notas digital para capturar los elementos del escenario dictado por el instructor. |
-
-## Entorno de Laboratorio
-
-### Hardware Mínimo
-
-| Componente | Especificación |
-|:---|:---|
-| Procesador | Intel Core i5 (64 bits) o equivalente AMD |
-| Memoria RAM | 8 GB mínimo |
-| Pantalla | Resolución mínima 1920×1080 |
-| Conectividad | Banda ancha ≥ 10 Mbps bajada/subida |
-
-### Software Requerido
-
-| Herramienta | Versión Exacta | Función en la Práctica |
-|:---|:---|:---|
-| Microsoft Edge | 128.0.2739.42 | Navegador principal para acceder a Copilot Chat |
-| Microsoft 365 Copilot Chat (Business Chat, modo Work) | Service Release 2408 (Build 17928.20156) | Plataforma de interacción con el LLM mediante prompts COOE |
-| Microsoft Teams (Trabajo o Escuela) | 24193.1805.2987.5853 | Canal alternativo de acceso a Copilot Chat |
-
-> **Nota sobre licencias:** Microsoft 365 Copilot Chat (Business Chat en modo Work) es un componente de la licencia **Microsoft 365 Copilot Premium**. No debe confundirse con la versión gratuita de Copilot (anteriormente Bing Chat) ni con Copilot en aplicaciones individuales como Word o Excel. La funcionalidad de modo Work permite a Copilot acceder a datos del tenant corporativo a través de Microsoft Graph, lo cual es esencial para esta práctica.
-
-### Configuración Inicial
-
-Antes de iniciar, verifica que cumples con las siguientes condiciones:
-
-1. Tienes abierta **una sola pestaña** de Microsoft 365 Copilot Chat en `https://m365.cloud.microsoft/chat` con el selector de modo en **Work** (icono de maletín).
-2. Si utilizaste Copilot Chat en la Práctica 1, **mantén el mismo hilo de conversación abierto** para conservar la continuidad del contexto (Thread Continuity).
-3. Tienes listo tu bloc de notas (físico o digital) para registrar los datos del escenario que el instructor proporcionará verbalmente.
+Se proporcionará directamente en el escenario la información necesaria sobre comportamiento del segmento, experiencia del cliente, restricciones operativas y objetivos esperados. Los participantes construirán un prompt utilizando Contexto + Objetivo + Origen + Expectativas para solicitar a Copilot que organice la situación sin generar todavía una recomendación. El resultado deberá separar qué se sabe, qué se está suponiendo y qué sería necesario validar.
 
 ## Instrucciones Paso a Paso
 
-### Paso 1: Capturar los elementos del escenario proporcionado por el instructor
-
-**Objetivo:** Registrar de forma estructurada los cuatro bloques de información del escenario ejecutivo que el instructor presentará verbalmente, organizándolos según las categorías que alimentarán cada componente del marco COOE.
-
-**Instrucciones:**
-
-1. Escucha atentamente al instructor mientras presenta el escenario ejecutivo. El escenario incluirá información sobre las siguientes cuatro dimensiones:
-
-   - **Comportamiento del segmento:** Datos sobre cómo los microempresarios de Bancolombia interactúan actualmente con los canales de la entidad.
-   - **Experiencia del cliente:** Puntos de dolor, fricciones y percepciones del microempresario al usar (o intentar usar) canales digitales.
-   - **Restricciones operativas:** Limitaciones de presupuesto, infraestructura tecnológica, capacidad de atención en sucursales o regulaciones que condicionan la migración.
-   - **Objetivos esperados:** Metas organizacionales que Bancolombia busca alcanzar con la migración digital del segmento.
-
-2. En tu bloc de notas, crea cuatro secciones con los encabezados anteriores y registra **al menos 2 datos específicos por sección** mientras el instructor habla.
-
-3. Marca con un asterisco (*) cualquier dato que te parezca ambiguo o incompleto — esto será útil al construir la sección de "supuestos" en tu prompt.
-
-4. Si el instructor comparte cifras o porcentajes específicos, regístralos textualmente; serán los **hechos** de tu prompt.
-
-> **Escenario de referencia proporcionado por el instructor:**
->
-> A continuación se presenta el escenario completo que el instructor dictará. Durante la sesión presencial, los participantes deben capturarlo de oído. Para efectos de esta guía de laboratorio, se incluye como referencia:
+### Paso 1: Escenario de referencia proporcionado por el instructor:
 >
 > ---
 >
@@ -348,32 +260,3 @@ Si detectas cualquiera de estos casos, documéntalo como un **hallazgo de alucin
    ```
 3. Si el problema persiste, considera iniciar un **nuevo hilo de conversación** y colocar las instrucciones de formato **al inicio** del prompt (antes de la sección de Contexto), ya que los LLM tienden a dar mayor peso a las instrucciones que aparecen primero.
 
-## Limpieza
-
-Esta práctica **no requiere eliminación de recursos** ya que no se crearon archivos, agentes ni configuraciones permanentes. Sin embargo, sigue estas indicaciones para mantener la continuidad del curso:
-
-1. **NO cierres el hilo de conversación** de Microsoft 365 Copilot Chat. Las prácticas posteriores (3 a 10) se ejecutarán en el mismo hilo para mantener la continuidad contextual (Thread Continuity).
-2. **Conserva tus notas** del Paso 1 (datos del escenario) y del Paso 3 (rúbrica de evaluación). Serán referencia para las prácticas subsiguientes donde se construirán prompts más complejos sobre el mismo escenario.
-3. Si tomaste capturas de pantalla de tu prompt o de la respuesta de Copilot, guárdalas en una carpeta local con el nombre `Lab_01-00-02_Practica2` para referencia futura.
-
-## Resumen
-
-En esta práctica aplicaste el marco de prompting **COOE (Contexto + Objetivo + Origen + Expectativas)** para construir una instrucción estructurada que solicita a Microsoft 365 Copilot organizar una situación de negocio compleja sin generar recomendaciones prematuras. Los aprendizajes clave incluyen:
-
-- **La estructura COOE es un habilitador de precisión:** Al etiquetar explícitamente cada sección del prompt, se reduce la ambigüedad y se incrementa la probabilidad de obtener una respuesta con el formato y contenido deseados.
-- **La restricción de "no recomendar" requiere refuerzo explícito:** Los LLM tienen un sesgo inherente hacia la generación de sugerencias; la supervisión humana y la iteración son necesarias para mantener el control sobre el tipo de respuesta.
-- **Separar hechos de supuestos es un acto de rigor analítico:** En contextos ejecutivos, la diferencia entre un dato confirmado y una suposición puede significar la diferencia entre una decisión acertada y un error de millones de pesos.
-- **La verificación de alucinaciones es responsabilidad del líder:** Copilot puede presentar información fabricada como si fuera un hecho; el ejecutivo debe siempre validar las cifras contra las fuentes originales.
-
-### Conexión con la Siguiente Práctica
-
-En la **Práctica 3**, utilizarás el mismo hilo de conversación para avanzar al siguiente nivel: solicitar a Copilot que, a partir de la organización de información lograda en esta práctica, genere alternativas de decisión estratégica con análisis de riesgos y dependencias. La clasificación tripartita (hechos/supuestos/pendientes) que obtuviste aquí será el insumo directo para esa solicitud.
-
-### Recursos Adicionales
-
-| Recurso | Enlace |
-|:---|:---|
-| Microsoft Learn: Introducción a Microsoft 365 Copilot | https://learn.microsoft.com/es-es/microsoft-365-copilot/overview |
-| Microsoft Learn: Datos, privacidad y seguridad para Microsoft 365 Copilot | https://learn.microsoft.com/es-es/microsoft-365-copilot/copilot-privacy |
-| Microsoft Learn: Escribir prompts eficaces para Microsoft 365 Copilot | https://learn.microsoft.com/es-es/microsoft-365-copilot/microsoft-365-copilot-usage-activity |
-| Microsoft WorkLab: Guía de IA para líderes y ejecutivos | https://www.microsoft.com/en-us/worklab |
