@@ -1,6 +1,6 @@
-#Práctica 3: Ampliar el análisis y convertirlo en acción con Copilot y agentes
+# Práctica 3: Ampliar el análisis y convertirlo en acción con Copilot y agentes
 
-**Duración:** 61 min
+**Duración:** 30 min
 
 ## Descripción
 En este laboratorio se profundiza el análisis del caso ejecutivo trasladando necesidades complejas a agentes especializados, contrastando hipótesis con evidencia externa, construyendo un plan de acción interactivo con escenarios en Excel y preparando al líder para la presentación defensiva mediante un agente especializado.
@@ -42,7 +42,7 @@ En este laboratorio se profundiza el análisis del caso ejecutivo trasladando ne
      Crea tres escenarios de evolución de adopción (Optimista, Conservador y Crítico) basados en los datos del plan, incorpora las fórmulas necesarias y genera un gráfico comparativo de los indicadores clave.
      ```
 
-5. **Preparar al líder con el Executive Briefing Agent:**
+5. **Preparar al líder:**
    * Selecciona el agente **Investigador (Researcher)** en Microsoft 365 Copilot.
    * Envía el siguiente prompt de entrenamiento y simulación:
      ```text
