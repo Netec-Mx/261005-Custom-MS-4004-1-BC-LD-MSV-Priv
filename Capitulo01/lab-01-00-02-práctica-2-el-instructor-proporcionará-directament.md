@@ -1,6 +1,6 @@
 # Práctica 2: Copilot como apoyo para analizar y desafiar una decisión
 
-**Duración:** 28 min
+**Duración:** 30 min
 
 ## Descripción
 Escenario: Un equipo ejecutivo debe decidir cómo responder ante una disminución en la adopción de una experiencia digital por parte de un segmento de clientes. Existen diferentes hipótesis sobre las causas y distintas alternativas de intervención, pero antes de comprometer recursos el líder necesita estructurar el problema, evaluar las opciones y determinar qué información adicional necesita.
