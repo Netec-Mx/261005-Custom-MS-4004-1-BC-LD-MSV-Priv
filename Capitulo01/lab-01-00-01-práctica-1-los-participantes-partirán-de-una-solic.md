@@ -5,8 +5,6 @@
 ## Descripción
 Los participantes partirán de una solicitud ejecutiva sencilla y la transformarán progresivamente en una instrucción que solicite a Copilot identificar alternativas, riesgos, supuestos, información faltante y criterios para tomar una decisión. Se comparará el resultado inicial con el obtenido después de aplicar la fórmula del prompt.
 
----
-
 ## Pasos para ejecutar la práctica
 
 1. **Evaluación de solicitud sencilla inicial:**
