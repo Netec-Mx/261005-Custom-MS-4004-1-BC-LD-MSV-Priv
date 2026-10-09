@@ -1,4 +1,4 @@
-# Práctica 1: De la necesidad ejecutiva a la estrategia de IA
+# Laboratorio  1: De la necesidad ejecutiva a la estrategia de IA
 
 **Duración:** 15 min
 
