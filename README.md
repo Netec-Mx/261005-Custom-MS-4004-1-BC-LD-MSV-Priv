@@ -27,7 +27,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 4](Capitulo01/lab-01-00-04-práctica-4-los-participantes-pedirán-a-copilot-que.md)
 
-- **Descripción**: Los participantes pedirán a Copilot que adopte una postura crítica frente a la alternativa inicialmente preferida e identifique razones por las que podría fracasar, señales tempranas que indicarían que la decisión debe reconsiderarse y preguntas que un comité debería formular antes de aprobarla.
+- **Descripción**: En este laboratorio se toma el resultado final del análisis y la decisión ejecutiva desarrollada para adaptarla a diferentes audiencias clave mediante Copilot en Word, garantizando que el mensaje sea accionable, coherente y adaptado en lenguaje e intencionalidad según el rol del receptor.
 - ⏱️ **Duración estimada**: 15 min
 
 ---
