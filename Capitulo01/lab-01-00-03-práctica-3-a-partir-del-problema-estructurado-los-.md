@@ -1,4 +1,4 @@
-# Práctica 3: Ampliar el análisis y convertirlo en acción con Copilot y agentes
+# Laboratorio 3: Ampliar el análisis y convertirlo en acción con Copilot y agentes
 
 **Duración:** 30 min
 
