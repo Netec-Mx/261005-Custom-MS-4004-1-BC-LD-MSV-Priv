@@ -17,7 +17,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 2](Capitulo01/lab-01-00-02-práctica-2-el-instructor-proporcionará-directament.md)
 
-- **Descripción**: El instructor proporcionará directamente en el escenario la información necesaria sobre comportamiento del segmento, experiencia del cliente, restricciones operativas y objetivos esperados. Los participantes construirán un prompt utilizando Contexto + Objetivo + Origen + Expectativas para solicitar a Copilot que organice la situación sin generar todavía una recomendación. El resultado deberá separar qué se sabe, qué se está suponiendo y qué sería necesario validar.
+- **Descripción**: Escenario: Un equipo ejecutivo debe decidir cómo responder ante una disminución en la adopción de una experiencia digital por parte de un segmento de clientes. Existen diferentes hipótesis sobre las causas y distintas alternativas de intervención, pero antes de comprometer recursos el líder necesita estructurar el problema, evaluar las opciones y determinar qué información adicional necesita.
 - ⏱️ **Duración estimada**: 30 min
 
 ### [Práctica 3](Capitulo01/lab-01-00-03-práctica-3-a-partir-del-problema-estructurado-los-.md)
