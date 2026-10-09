@@ -1,4 +1,4 @@
-# Práctica 2: Copilot como apoyo para analizar y desafiar una decisión
+# Laboratorio 2: Copilot como apoyo para analizar y desafiar una decisión
 
 **Duración:** 30 min
 
