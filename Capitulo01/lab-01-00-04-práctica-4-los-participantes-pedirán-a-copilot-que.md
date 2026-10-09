@@ -1,4 +1,4 @@
-# Práctica 4: Transformar el análisis en una comunicación ejecutiva
+# Laboratorio 4: Transformar el análisis en una comunicación ejecutiva
 
 **Duración:** 15 min
 
