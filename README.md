@@ -22,7 +22,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 3](Capitulo01/lab-01-00-03-práctica-3-a-partir-del-problema-estructurado-los-.md)
 
-- **Descripción**: A partir del problema estructurado, los participantes solicitarán a Copilot tres alternativas de actuación. Para cada alternativa deberán obtener beneficio esperado, riesgos, dependencias, supuesto crítico, información faltante e indicadores que permitirían evaluar posteriormente su efectividad. Después modificarán criterios o restricciones para observar cómo cambia la recomendación.
+- **Descripción**: En este laboratorio se profundiza el análisis del caso ejecutivo trasladando necesidades complejas a agentes especializados, contrastando hipótesis con evidencia externa, construyendo un plan de acción interactivo con escenarios en Excel y preparando al líder para la presentación defensiva mediante un agente especializado.
 - ⏱️ **Duración estimada**: 30 min
 
 ### [Práctica 4](Capitulo01/lab-01-00-04-práctica-4-los-participantes-pedirán-a-copilot-que.md)
